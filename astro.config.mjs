@@ -11,5 +11,5 @@ export default defineConfig({
 		react(),
 	],
     site: 'https://moritalous.github.io',
-    base: '/my-astro-2-docs-demo',
+    base: '/my-astro-2-docs-demo/',
 });
