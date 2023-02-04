@@ -10,5 +10,6 @@ export default defineConfig({
 		// Enable React for the Algolia search component.
 		react(),
 	],
-	site: `https://astro.build`,
+    site: 'https://moritalous.github.io',
+    base: '/my-astro-2-docs-demo',
 });
